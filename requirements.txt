@@ -1,0 +1,2 @@
+django-tastypie>=0.9.14
+django-registration>=0.8
